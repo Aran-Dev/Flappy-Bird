@@ -1,0 +1,25 @@
+C:\Users\Elliot\OneDrive\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Elliot\OneDrive\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Elliot\OneDrive\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Elliot\OneDrive\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Elliot\OneDrive\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Elliot\OneDrive\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\Elliot\OneDrive\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\Elliot\OneDrive\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.AssemblyReference.cache
+C:\Users\Elliot\OneDrive\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+E:\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+E:\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+E:\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Elliot\OneDrive\Desktop\Fllapy Bird\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Elliot\OneDrive\Desktop\Fllapy Bird\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Elliot\OneDrive\Desktop\Fllapy Bird\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.AssemblyReference.cache
+C:\Users\Elliot\OneDrive\Desktop\Fllapy Bird\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Elliot\OneDrive\Desktop\Fllapy Bird\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Elliot\OneDrive\Desktop\Fllapy Bird\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+C:\Users\Elliot\OneDrive\Desktop\Fllapy Bird\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Elliot\OneDrive\Desktop\Fllapy Bird\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\Elliot\OneDrive\Desktop\Fllapy Bird\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
