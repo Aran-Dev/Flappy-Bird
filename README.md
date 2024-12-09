@@ -18,4 +18,4 @@ A simple and lightweight clone of the classic Flappy Bird, developed using C# wi
 1. Clone this repository:
    `bash
    git clone https://github.com/YourUsername/FlappyBirdClone.git
-2. Run the Exe File in The Bin Path  
+2. Run the Game Exe File in The Bin/Debug Path  
